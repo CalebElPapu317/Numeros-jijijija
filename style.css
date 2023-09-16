@@ -1,0 +1,21 @@
+body{
+    background-image: url("fotografia-de-unos-nuggets-de-pollo.jpeg");
+    font-family: 'Pacifico', cursive;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    background-color: rgba(180, 123, 17, 0.856);
+    font-family: 'Pacifico', cursive;
+}
+
+input{
+    background-color: rgb(221, 181, 49);
+    font-family: 'Pacifico', cursive;
+}
+
+#resultado{
+    color: cornflowerblue;
+}
